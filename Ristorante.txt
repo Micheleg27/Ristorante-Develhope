@@ -3,21 +3,17 @@ Nome ristorante: Spaghetti per tutti
 
 Antipasti:
 
-Insalata di polpo 
+- Insalata di polpo 
 
 Primi Piatti:
+- Carbonara
 
-Carbonara
+- Cacio e Pepe
 
-Lista Secondi Piatti:
-
-Bistecca
-
-Dolci:
-
-Tiramisù
+Secondi Piatti:
+- Bistecca
 
 
-
-
+Bevande:
+- Vino rosso
 
