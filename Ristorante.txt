@@ -2,9 +2,14 @@ Nome ristorante: Spaghetti per tutti
 
 
 Antipasti:
-- Insalata di polpo 
 
+Insalata di polpo 
+
+Lista Secondi Piatti:
+
+Bistecca
 
 Dolci:
 
 Tiramisù
+
