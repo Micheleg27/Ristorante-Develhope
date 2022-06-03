@@ -6,13 +6,14 @@ Antipasti:
 - Insalata di polpo 
 
 Primi Piatti:
-- Carbonara
 
+- Carbonara
 - Cacio e Pepe
 
 Secondi Piatti:
+
 - Bistecca
 
-
 Bevande:
+
 - Vino rosso
