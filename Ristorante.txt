@@ -9,3 +9,15 @@ Antipasti:
 - Tartare di salmone
 - Insalata di polpo 
 
+
+Primi Piatti:
+- Carbonara
+- Cacio e Pepe
+
+
+Secondi Piatti:
+- Bistecca
+
+
+Bevande:
+- Vino rosso
