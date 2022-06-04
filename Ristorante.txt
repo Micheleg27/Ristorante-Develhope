@@ -2,9 +2,14 @@ Nome ristorante: Spaghetti per tutti
 
 
 Antipasti:
-
+- Bruschetta con tonno
+- Gallette di riso con gamberi e avocado
+- Tartine con mousse di gamberetti
+- Tartare di tonno
+- Tartare di salmone
 - Insalata di polpo 
 
+<<<<<<< HEAD
 Primi Piatti:
 
 - Carbonara
@@ -17,3 +22,5 @@ Secondi Piatti:
 Bevande:
 
 - Vino rosso
+=======
+>>>>>>> feature/Antipasti
