@@ -9,18 +9,15 @@ Antipasti:
 - Tartare di salmone
 - Insalata di polpo 
 
-<<<<<<< HEAD
-Primi Piatti:
 
+Primi Piatti:
 - Carbonara
 - Cacio e Pepe
 
-Secondi Piatti:
 
+Secondi Piatti:
 - Bistecca
 
-Bevande:
 
+Bevande:
 - Vino rosso
-=======
->>>>>>> feature/Antipasti
