@@ -21,3 +21,6 @@ Secondi Piatti:
 
 Bevande:
 - Vino rosso
+- Gazzosa
+- Coca Cola alla vaniglia
+- Acqua
